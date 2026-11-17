@@ -41,7 +41,7 @@ hypothesis
 先在 PowerShell 中获取项目：
 
 ```powershell
-git clone https://github.com/Mactep2/word-difficulty.git
+git clone https://github.com/Mactep1/word-difficulty.git
 cd word-difficulty
 ```
 
@@ -142,7 +142,7 @@ output/
 对应命令如下，尚未在这两个系统完成验证：
 
 ```bash
-git clone https://github.com/Mactep2/word-difficulty.git
+git clone https://github.com/Mactep1/word-difficulty.git
 cd word-difficulty
 uv sync --frozen --python 3.12
 .venv/bin/python -m word_difficulty setup
